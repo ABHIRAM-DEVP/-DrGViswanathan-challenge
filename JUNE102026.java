@@ -31,3 +31,6 @@ public class JUNE102026 {
         return result;
     }
 }
+
+//time complexity: O(n)
+//space complexity: O(1) (as per Leetcode's constraint)excluding The output array does not count as extra space for space complexity analysis
