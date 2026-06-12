@@ -51,3 +51,5 @@ public class JUNE122026 {
         return result;
     }
 }
+//time complexity: O(n^2)
+//space complexity: O(1) using zero auxiliary memory for tracking unique sets
