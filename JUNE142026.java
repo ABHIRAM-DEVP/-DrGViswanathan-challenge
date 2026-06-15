@@ -32,3 +32,9 @@ public class JUNE142026 {
         return false;
     }
 }
+
+//time complexity: O(n)
+//space complexity: O(1)
+
+
+
