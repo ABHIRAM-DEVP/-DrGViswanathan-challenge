@@ -3,7 +3,7 @@ public class JUNE272026 {
         int maxProfitSale = 0;
 
         for (int i = 1; i < prices.length; i++) {
-            // If the price went up from yesterday, "lock in" the profit
+            // If the price went up from yesterday, add the profit 
             if (prices[i] > prices[i - 1]) {
                 maxProfitSale += prices[i] - prices[i - 1];
             }
