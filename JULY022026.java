@@ -1,3 +1,5 @@
+import java.util.HashMap;
+import java.util.Map;
 public class JULY022026 {
     public String minWindow(String s, String t) {
         Map<Character,Integer>tReq = new HashMap<>();
