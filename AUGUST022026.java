@@ -1,3 +1,5 @@
+import java.util.Arrays;
+
 public class AUGUST022026{
     public int coinChange(int[] coins, int amount){
         int n = coins.length;
