@@ -1,4 +1,4 @@
-public class Solution {
+public class AUGUST282026{
     public int AUGUST282026(int[] nums, int k) {
         //subarray : use sliding window because backtrack will cause subsets with non contiguous elements
 
